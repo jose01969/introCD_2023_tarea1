@@ -1,12 +1,16 @@
-Se detallan a continuación los archivos que conforman la segunda entrega.
+Entrega de la tarea final:
+
+Informe: Tarea_Final_Clavijo_Bazzano.pdf
+
+==========================================================
+
+Entrega de la tarea 2:
 
 Informe : Informe_Tareas_1_2_IntroCD2023_Clavijo_Bazzano.pdf
 
 Notebook principal : shakespeare_tarea_2_version_final.ipynb
 
 ==========================================================
-
-El Readme de la primera entrega se detalla a continuación:
 
 Entrega de la tarea 1 , IntroCD 2023_01.
 
